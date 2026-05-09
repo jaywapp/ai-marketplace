@@ -1,0 +1,11 @@
+{
+  "name": "example-plugin",
+  "description": "AI Marketplace 예제 플러그인",
+  "version": "1.0.0",
+  "skills": [],
+  "interface": {
+    "displayName": "Example Plugin",
+    "shortDescription": "AI Marketplace 예제 플러그인",
+    "capabilities": []
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "updatedAt": "2026-05-09T00:01:55.302Z",
+  "count": 1,
+  "plugins": [
+    {
+      "name": "example-plugin",
+      "version": "1.0.0",
+      "description": "AI Marketplace 예제 플러그인",
+      "author": "jaywapp",
+      "license": "MIT",
+      "tags": [
+        "example",
+        "template"
+      ],
+      "platforms": [
+        "claude"
+      ],
+      "path": "plugins/example-plugin"
+    }
+  ]
+}

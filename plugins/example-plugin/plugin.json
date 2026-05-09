@@ -1,0 +1,9 @@
+{
+  "name": "example-plugin",
+  "version": "1.0.0",
+  "description": "AI Marketplace 예제 플러그인",
+  "author": "jaywapp",
+  "license": "MIT",
+  "tags": ["example", "template"],
+  "platforms": ["claude"]
+}
