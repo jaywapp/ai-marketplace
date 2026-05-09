@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "mcp-plugin-template",
+  "version": "0.1.0",
+  "description": "Shared MCP plugin template for Claude Code and Codex.",
+  "author": {
+    "name": "[TODO: author-name]",
+    "email": "[TODO: author-email]",
+    "url": "[TODO: author-url]"
+  },
+  "homepage": "[TODO: homepage-url]",
+  "repository": "[TODO: repository-url]",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "plugin",
+    "claude",
+    "codex",
+    "template"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json"
+}

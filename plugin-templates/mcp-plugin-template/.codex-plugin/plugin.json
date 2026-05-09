@@ -1,0 +1,42 @@
+{
+  "name": "mcp-plugin-template",
+  "version": "0.1.0",
+  "description": "Shared MCP plugin template for Claude Code and Codex.",
+  "author": {
+    "name": "[TODO: author-name]",
+    "email": "[TODO: author-email]",
+    "url": "[TODO: author-url]"
+  },
+  "homepage": "[TODO: homepage-url]",
+  "repository": "[TODO: repository-url]",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "plugin",
+    "codex",
+    "claude",
+    "template"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.codex.mcp.json",
+  "interface": {
+    "displayName": "MCP Plugin Template",
+    "shortDescription": "Starter template for a shared Claude and Codex MCP plugin.",
+    "longDescription": "A reusable template that keeps Claude and Codex plugin metadata separate while sharing one MCP server implementation under src/.",
+    "developerName": "[TODO: developer-name]",
+    "category": "Developer Tools",
+    "capabilities": [
+      "Tools",
+      "MCP"
+    ],
+    "websiteURL": "[TODO: website-url]",
+    "privacyPolicyURL": "[TODO: privacy-policy-url]",
+    "termsOfServiceURL": "[TODO: terms-of-service-url]",
+    "defaultPrompt": [
+      "Inspect the MCP server exposed by this plugin.",
+      "Explain how to extend this template with a new tool.",
+      "Review the shared src implementation for missing pieces."
+    ],
+    "brandColor": "#2563EB"
+  }
+}

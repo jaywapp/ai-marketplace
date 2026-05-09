@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "mcp-plugin-template": {
+      "type": "stdio",
+      "command": "node",
+      "args": [
+        "./src/index.js"
+      ],
+      "env": {
+        "MCP_PLUGIN_ROOT": ".",
+        "MCP_SERVER_NAME": "mcp-plugin-template"
+      }
+    }
+  }
+}
