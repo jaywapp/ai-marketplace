@@ -1,0 +1,9 @@
+{
+  "name": "agent-team-manager",
+  "version": "1.0.0",
+  "description": "AI 에이전트 팀의 동작, 효율성, 토큰 낭비·절약 포인트를 점검하는 플러그인",
+  "author": "jaywapp",
+  "license": "MIT",
+  "tags": ["agent-team", "efficiency", "token-optimization", "inspection", "ai-team"],
+  "platforms": ["claude"]
+}
