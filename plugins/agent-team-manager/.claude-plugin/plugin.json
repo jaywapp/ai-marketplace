@@ -1,6 +1,5 @@
 {
   "name": "agent-team-manager",
   "description": "AI 에이전트 팀(AgentTeam, ClaudeBuffett, productivity-engineering-team 등)의 구성, 효율성, 토큰 낭비·절약 포인트를 점검한다. 'inspect', '팀 점검', '토큰 분석', '에이전트 효율' 등의 요청 시 사용한다.",
-  "version": "1.0.0",
-  "skills": ["inspect"]
+  "version": "1.0.0"
 }
