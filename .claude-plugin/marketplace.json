@@ -1,0 +1,22 @@
+{
+  "name": "ai-marketplace",
+  "description": "jaywapp의 AI 에이전트 플러그인 마켓플레이스",
+  "owner": {
+    "name": "jaywapp"
+  },
+  "metadata": {
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "agent-team-manager",
+      "source": "./plugins/agent-team-manager",
+      "description": "AI 에이전트 팀의 동작, 효율성, 토큰 낭비·절약 포인트를 점검하는 플러그인",
+      "author": {
+        "name": "jaywapp"
+      },
+      "license": "MIT",
+      "keywords": ["agent-team", "efficiency", "token-optimization", "inspection"]
+    }
+  ]
+}
