@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-09T00:01:55.302Z",
-  "count": 1,
+  "updatedAt": "2026-05-31T00:00:00.000Z",
+  "count": 2,
   "plugins": [
     {
       "name": "example-plugin",
@@ -16,6 +16,24 @@
         "claude"
       ],
       "path": "plugins/example-plugin"
+    },
+    {
+      "name": "agent-team-manager",
+      "version": "1.0.0",
+      "description": "AI 에이전트 팀의 동작, 효율성, 토큰 낭비·절약 포인트를 점검하는 플러그인",
+      "author": "jaywapp",
+      "license": "MIT",
+      "tags": [
+        "agent-team",
+        "efficiency",
+        "token-optimization",
+        "inspection",
+        "ai-team"
+      ],
+      "platforms": [
+        "claude"
+      ],
+      "path": "plugins/agent-team-manager"
     }
   ]
 }
