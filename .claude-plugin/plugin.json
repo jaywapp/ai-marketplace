@@ -1,0 +1,11 @@
+{
+  "name": "qa",
+  "description": "QA 워크플로우 자동화: 리포트 파싱 → TODO 생성 → 서브에이전트 실행 → GitHub PR",
+  "version": "0.1.0",
+  "author": {
+    "name": "jaywapp"
+  },
+  "repository": "https://github.com/jaywapp/claude-plugin-qa",
+  "license": "MIT",
+  "keywords": ["qa", "workflow", "automation", "testing"]
+}
