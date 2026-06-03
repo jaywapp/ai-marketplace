@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-05-31T00:00:00.000Z",
-  "count": 2,
+  "updatedAt": "2026-06-03T00:00:00.000Z",
+  "count": 3,
   "plugins": [
     {
       "name": "example-plugin",
@@ -34,6 +34,23 @@
         "claude"
       ],
       "path": "plugins/agent-team-manager"
+    },
+    {
+      "name": "qa-workflow",
+      "version": "1.0.0",
+      "description": "QA workflow automation plugin for Claude Code",
+      "author": "jaywapp",
+      "license": "MIT",
+      "tags": [
+        "qa",
+        "workflow",
+        "automation",
+        "testing"
+      ],
+      "platforms": [
+        "claude"
+      ],
+      "path": "plugins/qa-workflow"
     }
   ]
 }
