@@ -1,11 +1,18 @@
-# AI Marketplace
+# jaywapp-marketplace
 
 Claude Code 플러그인, MCP 서버, OpenAI Codex 플러그인, Cursor 확장 등 AI 도구를 등록하고 공유하는 마켓플레이스입니다.
+
+## 등록된 플러그인
+
+| 플러그인 | 설명 |
+|---------|------|
+| [claude-skills](plugins/claude-skills) | 개인용 Claude Code 스킬 라이브러리 |
+| [qa-workflow](plugins/qa-workflow) | QA 리포트 → 코드 수정 → GitHub PR 자동화 워크플로우 |
 
 ## 구조
 
 ```
-ai-marketplace/
+jaywapp-marketplace/
 ├── plugins/              # 플러그인 저장소
 │   └── <plugin-name>/
 │       ├── plugin.json         # 공통 메타데이터
