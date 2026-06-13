@@ -1,0 +1,5 @@
+{
+  "name": "debate",
+  "description": "Claude와 Codex가 한 주제를 두고 반대 입장에서 멀티라운드 토론을 벌이고, 중립 서브에이전트가 판정한다. 아키텍처 결정, 설계 트레이드오프, 찬반 분석 전에 사용한다. '토론', '/debate', '찬반', 'devil's advocate' 등의 요청 시 사용한다.",
+  "version": "1.0.0"
+}

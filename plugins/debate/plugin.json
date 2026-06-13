@@ -1,0 +1,9 @@
+{
+  "name": "debate",
+  "version": "1.0.0",
+  "description": "Claude ↔ Codex 멀티라운드 토론 + 중립 판정. 아키텍처/설계 결정 전 양측 논거를 수집한다.",
+  "author": "jaywapp",
+  "license": "MIT",
+  "tags": ["debate", "codex", "decision-making", "code-review", "multi-agent"],
+  "platforms": ["claude"]
+}
